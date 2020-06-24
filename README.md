@@ -1,2 +1,2 @@
 # Python
-Codes are written in Python
+Kaggle Competition Codes.
